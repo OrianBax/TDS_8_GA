@@ -8,7 +8,7 @@ def find_largest(a, b, c):
     else:
         return c
 
-st.title("Find the Largest Number")
+st.title("Find the Largest Number (by 21F1001916)")
 st.write("Enter three numbers below:")
 
 num1 = st.number_input("Enter the first number", value=0)
